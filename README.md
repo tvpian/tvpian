@@ -1,10 +1,9 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Tharun V(111|nd Puthanveettil)|https://raymond.li)" title="👋 Hi there! I'm (Tharun V.(111|nd Puthanveettil)|https://tvpian.github.io)"/>](https://tvpian.github.io/)
-
 - 👋 Hi, I’m Tharun V Puthanveettil
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- People at work call me TVP
+- 👀 I’m interested in Machine Learning, Computer Vision & Robotics
+- 🌱 I’m currently learning Machine Vision and Robotics
+- 💞️ I’m looking to collaborate on anything that requires creativity and imagination
+- 📫 How to reach me - tharunv.pvit@gmail.com
 
 **languages and tools:**  
 
