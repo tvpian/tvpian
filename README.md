@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tvpian
+- 👋 Hi, I’m Tharun V Puthanveettil
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -6,22 +6,22 @@
 
 <br>
 
-<a href="https://twitter.com/jayprajapati99">
+<a href="https://twitter.com/TVPisonLINE">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/jay-prajapati-02b7ba169/">
+<a href="https://www.linkedin.com/in/tvpian/">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/jayprajapati009">
+<a href="https://github.com/tvpian">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/jayprajapati_009/">
+<a href="https://www.instagram.com/tharun_vp/">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/people/Jay-Prajapati/100024852131637/">
+<a href="https://www.facebook.com/tharun.vp1/">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://jayprajapati009.github.io/">
+<a href="https://tvpian.github.io/">
   <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" />
 </a>
 
@@ -30,13 +30,13 @@
 
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jayprajapati009)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tvpian)](https://git.io/streak-stats)
 
 </br>
 
 <br>
 
-[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayprajapati009)](https://github.com/jayprajapati009/github-readme-stats)
+[![Tvpian's GitHub stats](https://github-readme-stats.vercel.app/api?username=tvpian)](https://github.com/tvpian/github-readme-stats)
 
 </br>
 
