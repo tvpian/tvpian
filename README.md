@@ -61,7 +61,7 @@
 
 <br>
 
-[![Tvpian's GitHub stats](https://github-readme-stats.vercel.app/api?username=tvpian)](https://github.com/tvpian/github-readme-stats)
+[![Tvpian's GitHub stats](https://github-readme-stats.vercel.app/api?username=tvpian&show_icons=true&theme=radical)](https://github.com/tvpian/github-readme-stats)
 
 </br>
 
