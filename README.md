@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on anything that requires creativity and imagination
 - 📫 How to reach me - tharunv.pvit@gmail.com
 
-**languages and tools:**  
+**Languages and Tools:**  
 
 <code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
