@@ -61,7 +61,7 @@
 
 <br>
 
-[![Tvpian's GitHub stats](https://github-readme-stats.vercel.app/api?username=tvpian&show_icons=true&theme=radical)](https://github.com/tvpian/github-readme-stats)
+[![Anukriti's github stats](https://github-readme-stats.vercel.app/api?username=AnukritiSinghh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 </br>
 
