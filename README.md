@@ -5,6 +5,9 @@
 - 💞️ I’m looking to collaborate on anything that requires creativity and imagination
 - 📫 How to reach me - tharunv.pvit@gmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshit-desai&label=Profile%20views&color=0e75b6&style=flat" alt="darshit-desai" /> </p>
+
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
