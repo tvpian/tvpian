@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on anything that requires creativity and imagination
 - 📫 How to reach me - tharunv.pvit@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshit-desai&label=Profile%20views&color=0e75b6&style=flat" alt="darshit-desai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tvpian&label=Profile%20views&color=0e75b6&style=flat" alt="darshit-desai" /> </p>
 
 
 **Languages and Tools:**  
