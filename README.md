@@ -3,19 +3,25 @@
 
 <div align="center" style="background-color: rgba(255, 255, 255, 0.8); border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px;">
 
+
+
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=TvpisOnline&textBg=false&fontColor=5c32a8&desc=-%20Maintained%20by%20TVPIAN&fontSize=80&reversal=false&section=header&stroke=000FF00&descSize=18&descAlign=75&descAlignY=63)
+
   <h3 style="color: #333; margin-bottom: 10px;">👋 Hi, I’m Tharun V Puthanveettil</h3>
   <h4 style="color: #666; margin: 8px 0;">People at work call me TVP</h4>
   <h4 style="color: #666; margin: 8px 0;">👀 I’m interested in Machine Learning, Computer Vision & Robotics</h4>
   <h4 style="color: #666; margin: 8px 0;">🌱 Currently learning Machine Vision and Robotics</h4>
   <h4 style="color: #666; margin: 8px 0;">💞️ Open to collaborating on creative projects</h4>
   <h4 style="color: #666; margin-bottom: 20px;">📫 How to reach me - <a href="mailto:tharunv.pvit@gmail.com" style="color: #3498db; text-decoration: none;">tharunv.pvit@gmail.com</a></h4>
-
+  <a href="https://twitter.com/comicnerd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="comicnerd07" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/bharadwaj-chukkala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharadwaj-chukkala" height="30" width="40" /></a>
+  <a href="https://instagram.com/sir_caustic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sir_caustic" height="30" width="40" /></a>
+  <a href="https://medium.com/bchukkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="bchukkal" height="30" width="40" /></a>
 </div>
 
-
-
+<div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tvpian&label=Profile%20views&color=0e75b6&style=flat" alt="tvpian" /> </p>
-
+</div>
 
 <div align="center">
 <h3>**Languages and Tools:** </h3>
@@ -48,15 +54,19 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tvpian&show_icons=true&theme=radical)](https://git.io/streak-stats)
 
+  
+![footer](https://capsule-render.vercel.app/api?type=rect&height=10&width=300&color=gradient&textBg=false&fontColor=5c32a8&fontSize=80&reversal=true&section=footer&stroke=000FF00&descSize=18&descAlign=75&descAlignY=63)
+
 </div>
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tvpian)](https://git.io/streak-stats) -->
 
+<!--
+<div align="center">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
-  
+</div>
+-->
 
 <!---
 tvpian/tvpian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
