@@ -1,25 +1,25 @@
 
 
 
-<div align="center" style="background-color: rgba(255, 255, 255, 0.8); border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px;">
+<div align="center" style="background-color: rgba(255, 255, 255, 0.8); border-radius: 10px; box-shadow: 0 4px 8px rgba(40, 0, 0, 0.1); padding: 5px;">
 
 
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&weight=400&color=gradient&text=TVPIAN&textBg=false&fontColor=5c32a8&&fontSize=80&reversal=false&section=header&stroke=000FF00&descSize=18&descAlign=75&descAlignY=63)
 
-  <h2 style="color: #333; margin-bottom: 10px; font-weight: bold">👋 Hola, I’m Tharun V Puthanveettil</h2>
+  <h2 style="color: #333; margin-bottom: 5px; font-weight: bold">👋 Hola, I’m Tharun V Puthanveettil</h2>
   <h3 style="color: #666; margin: 8px 0;">People at work call me TVP</h4>
   <h3 style="color: #666; margin: 8px 0;">👀 I’m interested in Machine Learning, Computer Vision & Robotics</h4>
   <h3 style="color: #666; margin: 8px 0;">🌱 Currently learning Machine Vision and Robotics</h4>
   <h3 style="color: #666; margin: 8px 0;">💞️ Open to collaborating on creative projects</h4>
-  <h3 style="color: #666; margin-bottom: 20px;">📫 How to reach me - <a href="mailto:tharunv.pvit@gmail.com" style="color: #3498db; text-decoration: none;">tharunv.pvit@gmail.com</a></h4>
+  <h3 style="color: #666; margin-bottom: 5px;">📫 How to reach me - <a href="mailto:tharunv.pvit@gmail.com" style="color: #3498db; text-decoration: none;">tharunv.pvit@gmail.com</a></h4>
 
   <a href="https://twitter.com/comicnerd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="comicnerd07" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/tvpian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tvpian" height="30" width="40" /></a>
   <a href="https://instagram.com/sir_caustic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sir_caustic" height="30" width="40" /></a>
   <a href="https://medium.com/bchukkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="bchukkal" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/channel/UC9dTN0_IDjY5P1IWNWNg2jQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sir_caustic" height="30" width="40" /></a>
-        <a href="https://www.youtube.com/channel/UC9dTN0_IDjY5P1IWNWNg2jQ" target="blank"><img align="center" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="sir_caustic" height="30" width="100" /></a>
+  <a href="https://www.youtube.com/channel/UC9dTN0_IDjY5P1IWNWNg2jQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sir_caustic" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UC9dTN0_IDjY5P1IWNWNg2jQ" target="blank"><img align="center" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="sir_caustic" height="30" width="100" /></a>
 </div>
 
 <div>
