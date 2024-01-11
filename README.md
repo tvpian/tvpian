@@ -27,7 +27,7 @@
 </div>
 <h2></h2>
 <div align="center">
-<h3>**Languages and Tools:** </h3>
+<h3><u>Languages and Tools</u></h3>
 
 <code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
