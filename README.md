@@ -27,7 +27,7 @@
 </div>
 <h2></h2>
 <div align="center">
-<h3><u>Languages and Tools</u></h3>
+<h3>Languages and Tools</h3>
 
 <code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
@@ -72,7 +72,6 @@
 ![footer](https://capsule-render.vercel.app/api?type=rect&height=10&width=300&color=gradient&textBg=false&fontColor=5c32a8&fontSize=80&reversal=true&section=footer&stroke=000FF00&descSize=18&descAlign=75&descAlignY=63)
 
 </div>
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tvpian)](https://git.io/streak-stats) -->
 
 <!--
 <div align="center">
