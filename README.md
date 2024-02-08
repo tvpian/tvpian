@@ -7,12 +7,18 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&weight=400&color=gradient&text=TVPIAN&textBg=false&fontColor=5c32a8&&fontSize=80&reversal=false&section=header&stroke=000FF00&descSize=18&descAlign=75&descAlignY=63)
 
-  <h2 style="color: #333; margin-bottom: 5px; font-weight: bold">👋 Hola, I’m Tharun V Puthanveettil</h2>
-  <h3 style="color: #666; margin: 8px 0;">People at work call me TVP</h4>
-  <h3 style="color: #666; margin: 8px 0;">👀 I’m interested in Machine Learning, Computer Vision & Robotics</h4>
-  <h3 style="color: #666; margin: 8px 0;">🌱 Currently learning Machine Vision and Robotics</h4>
-  <h3 style="color: #666; margin: 8px 0;">💞️ Open to collaborating on creative projects</h4>
-  <h3 style="color: #666; margin-bottom: 5px;">📫 How to reach me - <a href="mailto:tharunv.pvit@gmail.com" style="color: #3498db; text-decoration: none;">tharunv.pvit@gmail.com</a></h4>
+
+<div style="background-color: #f2f2f2; padding: 20px; border-radius: 5px;">
+  <h2 style="color: #333; margin-bottom: 5px; font-weight: bold">👋 Greetings, I'm Tharun V Puthanveettil</h2>
+  <p style="color: #666; margin: 8px 0;">People at work call me<strong> TVP</strong></p>
+  <p style="color: #666; margin: 8px 0;"><strong>Interests:</strong> Machine Learning, Computer Vision, Robotics</p>
+  <p style="color: #666; margin: 8px 0;"><strong>Currently Working On:</strong> Machine Vision, Human Robot Interaction  and Multi-Modal Networks</p>
+  <p style="color: #666; margin: 8px 0;"><strong>Open to:</strong> Collaborating on creative projects</p>
+  <p style="color: #666; margin-bottom: 5px;"><strong>Contact:</strong> <a href="mailto:tharunv.pvit@gmail.com" style="color: #3498db; text-decoration: none;">tharunv.pvit@gmail.com</a></p>
+</div>
+
+
+
 
   <a href="https://twitter.com/comicnerd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="comicnerd07" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/tvpian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tvpian" height="30" width="40" /></a>
