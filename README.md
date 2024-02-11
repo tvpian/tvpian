@@ -9,7 +9,7 @@
 
 
 <div style="background-color: #f2f2f2; padding: 20px; border-radius: 5px;">
-  <h2 style="color: #333; margin-bottom: 5px; font-weight: bold">Tharun V Puthanveettil(TVP)</h2>
+  <h1 style="color: #333; margin-bottom: 5px; font-weight: bold">Tharun V Puthanveettil(TVP)</h2>
   <p style="color: #666; margin: 8px 0;">A Software Engineer 2.0, working as a Roboticist @ CATT Labs</p>
   <p style="color: #666; margin: 8px 0;"><strong>Interests:</strong> Machine Learning, Computer Vision, Robotics</p>
   <p style="color: #666; margin: 8px 0;"><strong>Currently Working On:</strong> Machine Vision, Human Robot Interaction  and Multi-Modal Networks</p>
