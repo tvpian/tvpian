@@ -21,11 +21,35 @@
 
 
  <!-- <a href="https://twitter.com/comicnerd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="comicnerd07" height="30" width="40" /></a> -->
-  <a href="https://www.linkedin.com/in/tvpian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tvpian" height="30" width="40" /></a>
+<!--  <a href="https://www.linkedin.com/in/tvpian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tvpian" height="30" width="40" /></a>
  <!-- <a href="https://instagram.com/sir_caustic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sir_caustic" height="30" width="40" /></a> -->
   <!--<a href="https://medium.com/bchukkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="bchukkal" height="30" width="40" /></a>-->
-  <a href="https://www.youtube.com/channel/UC9dTN0_IDjY5P1IWNWNg2jQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sir_caustic" height="30" width="40" /></a>
-  <a href="https://scholar.google.com/citations?user=Vre9wQQAAAAJ&hl=en" target="blank"><img align="center" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="sir_caustic" height="30" width="100" /></a>
+<!--  <a href="https://www.youtube.com/channel/UC9dTN0_IDjY5P1IWNWNg2jQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sir_caustic" height="30" width="40" /></a>
+  <a href="https://scholar.google.com/citations?user=Vre9wQQAAAAJ&hl=en" target="blank"><img align="center" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="sir_caustic" height="30" width="100" /></a> -->
+  <p align="center">
+  <a href= "https://github.com/tvpian">
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/E6E6E6/808080/github.png" alt="github"/>
+  </a>
+  <a href= "https://www.linkedin.com/in/tvpian/">
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/E6E6E6/808080/linkedin-circled.png" alt="linkedin-circled"/>
+  </a>
+  <a href= "https://www.youtube.com/channel/UC9dTN0_IDjY5P1IWNWNg2jQ">
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/E6E6E6/808080/youtube-play.png" alt="youtube-play"/>
+  </a>
+
+  <a href= "https://tvpian.github.io/">
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/E6E6E6/808080/domain.png" alt="domain"/>
+  </a>
+	
+<a href= "https://scholar.google.com/citations?user=Vre9wQQAAAAJ&hl=en">
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/E6E6E6/808080/google-scholar.png" alt="scholar"/>
+  </a>
+
+  <a href= "https://tvpian.github.io/data/Tharun_Resume.pdf">
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/E6E6E6/808080/resume.png" alt="resume"/>
+  </a>
+
+  
 </div>
 
 <div>
