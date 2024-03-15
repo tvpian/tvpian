@@ -82,17 +82,17 @@
 <h2></h2>
 <div align="center">
 <a href="https://github.com/tvpian/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tvpian&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tvpian&show_icons=true&theme=dark&icon_color=ffffff&bg_color=000000" />
 </a>
 <a href="https://github.com/tvpian/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tvpian&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tvpian&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark&icon_color=ffffff&bg_color=000000" />
 </a>
 </div>
 
 <div align="center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tvpian&show_icons=true&theme=dark)](https://git.io/streak-stats)
-  ![trophy](https://github-profile-trophy.vercel.app/?username=tvpian&column=-1&theme=oldie)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tvpian&show_icons=true&theme=dark&background=000000)](https://git.io/streak-stats)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=tvpian&column=-1&theme=black-ice)
 
   
 ![footer](https://capsule-render.vercel.app/api?type=rect&height=10&width=300&color=gradient&textBg=false&fontColor=5c32a8&fontSize=80&reversal=true&section=footer&stroke=000FF00&descSize=18&descAlign=75&descAlignY=63)
