@@ -92,7 +92,7 @@
 <div align="center">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tvpian&show_icons=true&theme=dark&background=000000)](https://git.io/streak-stats)
-  ![trophy](https://github-profile-trophy.vercel.app/?username=tvpian&column=-1&theme=black-ice)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=tvpian&column=-1&theme=chalk&no-bg=true)
 
   
 ![footer](https://capsule-render.vercel.app/api?type=rect&height=10&width=300&color=gradient&textBg=false&fontColor=5c32a8&fontSize=80&reversal=true&section=footer&stroke=000FF00&descSize=18&descAlign=75&descAlignY=63)
