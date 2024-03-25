@@ -1,8 +1,8 @@
 
-<div align="center" style="background-color: rgba(255, 255, 255, 0.8); border-radius: 1px; box-shadow: 0 4px 8px rgba(40, 0, 0, 0.1); padding: 1px;">
+<div align="center" style="background-color: rgba(255, 255, 255, 0.8); border-radius: 0.2px; box-shadow: 0 4px 8px rgba(40, 0, 0, 0.1); padding: 0.2px;">
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&weight=400&color=gradient&text=TVPIAN&textBg=false&fontColor=5c32a8&&fontSize=80&reversal=false&section=header&stroke=000FF00&descSize=18&descAlign=75&descAlignY=63)
-<div style="background-color: #f2f2f2; padding: 20px; border-radius: 5px;">
+<div style="background-color: #f2f2f2; padding: 2px; border-radius: 5px;">
   <h1 style="color: #333; margin-bottom: 0; font-weight: bold">Tharun V Puthanveettil(TVP)</h2>
   <p style="color: #666; margin: 8px 0; font-weight: bold">A Software Engineer 2.0, working as a Roboticist @ CATT Labs</p>
   <p style="color: #666; margin: 8px 0; font-weight: bold"><strong>Interests:</strong> Machine Learning, Computer Vision, Robotics</p>
