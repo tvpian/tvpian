@@ -79,6 +79,8 @@
 <code><img height="20" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white&labelColor=black&color=black"></code>
 </div>
 <h2></h2>
+
+<!--
 <div align="center">
 <a href="https://github.com/tvpian/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tvpian&show_icons=true&theme=dark&icon_color=ffffff&bg_color=000000" />
@@ -87,15 +89,28 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tvpian&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark&icon_color=ffffff&bg_color=000000" />
 </a>
 </div>
+-->
 
 <div align="center">
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tvpian&show_icons=true&theme=dark&background=000000)](https://git.io/streak-stats)
-  ![trophy](https://github-profile-trophy.vercel.app/?username=tvpian&column=-1&theme=chalk&no-bg=true)
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <a href="https://github.com/tvpian/github-readme-stats" style="margin: 10px;">
+      <img height=150 src="https://github-readme-stats.vercel.app/api?username=tvpian&show_icons=true&theme=dark&icon_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/tvpian/convoychat" style="margin: 10px;">
+      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=tvpian&layout=compact&langs_count=8&card_width=200&show_icons=true&theme=dark&icon_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/tvpian/github-readme-streak-stats" style="margin: 10px;">
+      <img height=150 src="http://github-readme-streak-stats.herokuapp.com?user=tvpian&show_icons=true&theme=dark&background=000000" />
+    </a>
+  </div>
+</div>
 
-  
-![footer](https://capsule-render.vercel.app/api?type=rect&height=10&width=300&color=gradient&textBg=false&fontColor=5c32a8&fontSize=80&reversal=true&section=footer&stroke=000FF00&descSize=18&descAlign=75&descAlignY=63)
+<div align="center">
+  <img height="150" src="https://github-profile-trophy.vercel.app/?username=tvpian&column=-1&theme=chalk&no-bg=true" style="margin-top: 20px;" />
+</div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=10&width=300&color=gradient&textBg=false&fontColor=5c32a8&fontSize=80&reversal=true&section=footer&stroke=000FF00&descSize=18&descAlign=75&descAlignY=63" style="margin-top: 20px;" />
 </div>
 
 <!--
