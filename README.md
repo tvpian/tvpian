@@ -4,12 +4,25 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&weight=400&color=gradient&text=TVPIAN&textBg=false&fontColor=5c32a8&&fontSize=80&reversal=false&section=header&stroke=000FF00&descSize=18&descAlign=75&descAlignY=63)
 <div style="background-color: #ffe6e6; padding: 2px; border-radius: 5px;">
   <h1 style="color: #333; margin-bottom: 0; font-weight: bold">Tharun V Puthanveettil(TVP)</h1>
-  <p style="color: #666; margin: 8px 0; font-weight: bold">A Software Engineer 2.0, working as a Roboticist @ CATT Labs</p>
+ <!-- <p style="color: #666; margin: 8px 0; font-weight: bold">A Software Engineer 2.0, working as a Roboticist @ CATT Labs</p>
   <p style="color: #666; margin: 8px 0; font-weight: bold"><strong>Interests:</strong> Machine Learning, Computer Vision, Robotics</p>
   <p style="color: #666; margin: 8px 0; font-weight: bold"><strong>Currently Working On:</strong> Machine Vision, Human Robot Interaction  and Multi-Modal Networks</p>
   <p style="color: #666; margin: 8px 0; font-weight: bold"><strong>Open to:</strong> Collaborating on creative projects</p>
-  <p style="color: #666; margin-bottom: 5px; font-weight: bold;"><strong>Contact:</strong> <a href="mailto:tharunv.pvit@gmail.com" style="color: #3498db; text-decoration: none;">tharunv.pvit@gmail.com</a></p>
+  <p style="color: #666; margin-bottom: 5px; font-weight: bold;"><strong>Contact:</strong> <a href="mailto:tharunv.pvit@gmail.com" style="color: #3498db; text-decoration: none;">tharunv.pvit@gmail.com</a></p> -->
 </div>
+
+```markdown
+A Software Engineer 2.0, working as a Roboticist @ CATT Labs
+
+Interests: Machine Learning, Computer Vision, Robotics
+
+Currently Working On: Machine Vision, Human-Robot Interaction, and Multi-Modal Networks
+
+Open to: Collaborating on creative projects
+
+Contact: tharunv.pvit@gmail.com
+
+```
 
 
  <!-- <a href="https://twitter.com/comicnerd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="comicnerd07" height="30" width="40" /></a> -->
