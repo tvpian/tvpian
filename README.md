@@ -1,18 +1,15 @@
 
-
 <div align="center" style="background-color: rgba(255, 255, 255, 0.8); border-radius: 1px; box-shadow: 0 4px 8px rgba(40, 0, 0, 0.1); padding: 1px;">
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&weight=400&color=gradient&text=TVPIAN&textBg=false&fontColor=5c32a8&&fontSize=80&reversal=false&section=header&stroke=000FF00&descSize=18&descAlign=75&descAlignY=63)
 <div style="background-color: #f2f2f2; padding: 20px; border-radius: 5px;">
-  <h1 style="color: #333; margin-bottom: 5px; font-weight: bold">Tharun V Puthanveettil(TVP)</h2>
+  <h1 style="color: #333; margin-bottom: 0; font-weight: bold">Tharun V Puthanveettil(TVP)</h2>
   <p style="color: #666; margin: 8px 0; font-weight: bold">A Software Engineer 2.0, working as a Roboticist @ CATT Labs</p>
   <p style="color: #666; margin: 8px 0; font-weight: bold"><strong>Interests:</strong> Machine Learning, Computer Vision, Robotics</p>
   <p style="color: #666; margin: 8px 0; font-weight: bold"><strong>Currently Working On:</strong> Machine Vision, Human Robot Interaction  and Multi-Modal Networks</p>
   <p style="color: #666; margin: 8px 0; font-weight: bold"><strong>Open to:</strong> Collaborating on creative projects</p>
   <p style="color: #666; margin-bottom: font-weight: bold 5px;"><strong>Contact:</strong> <a href="mailto:tharunv.pvit@gmail.com" style="color: #3498db; text-decoration: none;">tharunv.pvit@gmail.com</a></p>
 </div>
-
-
 
 
  <!-- <a href="https://twitter.com/comicnerd07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="comicnerd07" height="30" width="40" /></a> -->
