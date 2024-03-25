@@ -94,13 +94,13 @@
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
     <a href="https://github.com/tvpian/github-readme-stats" style="margin: 10px;">
-      <img height=150 src="https://github-readme-stats.vercel.app/api?username=tvpian&show_icons=true&theme=dark&icon_color=ffffff&bg_color=000000" />
+      <img height=120 src="https://github-readme-stats.vercel.app/api?username=tvpian&show_icons=true&theme=dark&icon_color=ffffff&bg_color=000000" />
     </a>
     <a href="https://github.com/tvpian/convoychat" style="margin: 10px;">
-      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=tvpian&layout=compact&langs_count=8&card_width=200&show_icons=true&theme=dark&icon_color=ffffff&bg_color=000000" />
+      <img height=120 src="https://github-readme-stats.vercel.app/api/top-langs?username=tvpian&layout=compact&langs_count=8&card_width=200&show_icons=true&theme=dark&icon_color=ffffff&bg_color=000000" />
     </a>
     <a href="https://github.com/tvpian/github-readme-streak-stats" style="margin: 10px;">
-      <img height=150 src="http://github-readme-streak-stats.herokuapp.com?user=tvpian&show_icons=true&theme=dark&background=000000" />
+      <img height=120 src="http://github-readme-streak-stats.herokuapp.com?user=tvpian&show_icons=true&theme=dark&background=000000" />
     </a>
   </div>
 </div>
