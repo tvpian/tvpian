@@ -64,7 +64,7 @@ Contact: tharunv.pvit@gmail.com
 <div align="center">
 <h3>Languages and Tools</h3>
 
-<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&labelColor=transparent&color=transparent"></code>
+<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=black&labelColor=white&color=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white&labelColor=black&color=black"></code>
 <code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white&labelColor=black&color=black"></code>
 <code><img height="20" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white&labelColor=black&color=black"></code>
