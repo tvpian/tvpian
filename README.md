@@ -102,7 +102,7 @@ Contact: tharunv.pvit@gmail.com
 -->
 
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; background-color: rgba(0, 0, 0, 0);">
     <a href="https://github.com/tvpian/github-readme-stats" style="margin: 10px;">
       <img height=120 src="https://github-readme-stats.vercel.app/api?username=tvpian&show_icons=true&theme=dark&icon_color=ffffff&bg_color=000000" />
     </a>
