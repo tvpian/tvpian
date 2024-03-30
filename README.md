@@ -65,28 +65,28 @@ Contact: tharunv.pvit@gmail.com
 <h3>Languages and Tools</h3>
 
 <code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=black&labelColor=white&color=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white&labelColor=black&color=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white&labelColor=black&color=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white&labelColor=black&color=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white&labelColor=black&color=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/Numpy-777BB4?style=plastic&logo=numpy&logoColor=white&labelColor=black&color=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white&labelColor=black&color=black"></code> 
-<code><img height="20" src="https://img.shields.io/badge/OpenCV-27338e?style=plastic&logo=OpenCV&logoColor=white&labelColor=black&color=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/ROS-22314E?style=plastic&logo=ROS&logoColor=white&labelColor=black&color=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/javascript-22314E?style=plastic&logo=javascript&logoColor=white&labelColor=black&color=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/mysql-22314E?style=plastic&logo=mysql&logoColor=white&labelColor=black&color=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/git-22314E?style=plastic&logo=git&logoColor=white&labelColor=black&color=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white&labelColor=black&color=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white&labelColor=black&color=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white&labelColor=black&color=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=white&labelColor=black&color=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white&labelColor=black&color=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=white&labelColor=black&color=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white&labelColor=black&color=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white&labelColor=black&color=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white&labelColor=black&color=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white&labelColor=black&color=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white&labelColor=black&color=black"></code>
+<code><img height="20" src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=black&labelColor=white&color=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=black&labelColor=white&color=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&&logoColor=black&labelColor=white&color=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=black&labelColor=white&color=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Numpy-777BB4?style=plastic&logo=numpy&logoColor=black&labelColor=white&color=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=scikit-learn&logoColor=black&labelColor=white&color=white"></code> 
+<code><img height="20" src="https://img.shields.io/badge/OpenCV-27338e?style=plastic&logo=OpenCV&logoColor=black&labelColor=white&color=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/ROS-22314E?style=plastic&logo=ROS&logoColor=black&labelColor=white&color=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/javascript-22314E?style=plastic&logo=javascript&logoColor=black&labelColor=white&color=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/mysql-22314E?style=plastic&logo=mysql&logoColor=black&labelColor=white&color=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/git-22314E?style=plastic&logo=git&logoColor=black&labelColor=white&color=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=black&labelColor=white&color=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=black&labelColor=white&color=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=black&labelColor=white&color=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black&labelColor=white&color=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=black&labelColor=white&color=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black&labelColor=white&color=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=black&labelColor=white&color=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=black&labelColor=white&color=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=black&labelColor=white&color=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=black&labelColor=white&color=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=black&labelColor=white&color=white"></code>
 </div>
 <h2></h2>
 
