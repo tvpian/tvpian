@@ -46,7 +46,7 @@ Contact: tharunv.pvit@gmail.com
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/E6E6E6/808080/domain.png" alt="domain"/>
   </a>
 	
-<a href= "https://scholar.google.com/citations?user=Vre9wQQAAAAJ&hl=en">
+  <a href= "https://scholar.google.com/citations?user=Vre9wQQAAAAJ&hl=en">
     <img width="64" height="64" src="https://img.icons8.com/nolan/64/E6E6E6/808080/google-scholar.png" alt="scholar"/>
   </a>
 
