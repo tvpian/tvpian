@@ -16,12 +16,11 @@ A Software Engineer 2.0, working as a Roboticist @ CATT Labs
 
 Interests: Machine Learning, Computer Vision, Robotics
 
-Currently Working On: Machine Vision, Human-Robot Interaction, and Multi-Modal Networks
+Currently Working On: Anomaly Detection, Multi-Modal Networks, and Human-Robot Interaction
 
 Open to: Collaborating on creative projects
 
 Contact: tharunv.pvit@gmail.com
-
 ```
 
 
