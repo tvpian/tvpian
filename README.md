@@ -6,7 +6,7 @@
   <h1 style="color: #333; margin-bottom: 0; font-weight: bold">Tharun V Puthanveettil(TVP)</h1>
  <!-- <p style="color: #666; margin: 8px 0; font-weight: bold">A Software Engineer 2.0, working as a Roboticist @ CATT Labs</p>
   <p style="color: #666; margin: 8px 0; font-weight: bold"><strong>Interests:</strong> Machine Learning, Computer Vision, Robotics</p>
-  <p style="color: #666; margin: 8px 0; font-weight: bold"><strong>Currently Working On:</strong> Machine Vision, Human Robot Interaction  and Multi-Modal Networks</p>
+  <p style="color: #666; margin: 8px 0; font-weight: bold"><strong>Currently Working On:</strong> Anomaly Detection, Multi-Modal Networks and Human Robot Interaction</p>
   <p style="color: #666; margin: 8px 0; font-weight: bold"><strong>Open to:</strong> Collaborating on creative projects</p>
   <p style="color: #666; margin-bottom: 5px; font-weight: bold;"><strong>Contact:</strong> <a href="mailto:tharunv.pvit@gmail.com" style="color: #3498db; text-decoration: none;">tharunv.pvit@gmail.com</a></p> -->
 </div>
