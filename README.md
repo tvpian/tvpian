@@ -109,7 +109,7 @@ Contact: tharunv.pvit@gmail.com
       <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs?username=tvpian&layout=compact&langs_count=8&card_width=200&show_icons=true&theme=shadow-blue&icon_color=ffffff&bg_color=00000000" />
     </a>
     <a href="https://github.com/tvpian/github-readme-streak-stats" style="margin: 10px;">
-      <img height=120 src="http://github-readme-streak-stats.herokuapp.com?user=tvpian&show_icons=true&theme=shadow-blue&background=00000000" />
+      <img height=120 src="http://github-readme-streak-stats.herokuapp.com?user=tvpian&show_icons=true&theme=shadow-blue&border=ffffffff&background=00000000" />
     </a>
   </div>
 </div>
