@@ -12,7 +12,7 @@
 </div>
 
 ```markdown
-A Software Engineer 2.0, working as a Roboticist @ CATT Labs
+A Software Engineer 2.0, working as a Robotics Engineer @ GM Research & Development
 
 Interests: Machine Learning, Computer Vision, Robotics
 
