@@ -61,7 +61,7 @@ Contact: tharunv.pvit@gmail.com
 </div>
 <h2></h2>
 <div align="center">
-<h3>Languages and Tools</h3>
+<h3>Technical Stack</h3>
 
 <code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=black&labelColor=white&color=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=black&labelColor=white&color=white"></code>
