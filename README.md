@@ -1,7 +1,7 @@
 
 <div align="center" style="background-color: rgba(255, 255, 255, 0.8); border-radius: 0.2px; box-shadow: 0 4px 8px rgba(40, 0, 0, 0.1); padding: 0.2px;">
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&weight=400&color=gradient&text=TVPIAN&textBg=false&fontColor=5c32a8&&fontSize=80&reversal=false&section=header&stroke=000FF00&descSize=18&descAlign=75&descAlignY=63)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&text=TVPIAN&fontColor=5c32a8&fontSize=80&stroke=00FF00&descAlign=75&descAlignY=63" alt="TVPIAN Header"/>
 <div style="background-color: #ffe6e6; padding: 2px; border-radius: 5px;">
   <h1 style="color: #333; margin-bottom: 0; font-weight: bold">Tharun V Puthanveettil(TVP)</h1>
  <!-- <p style="color: #666; margin: 8px 0; font-weight: bold">A Software Engineer 2.0, working as a Roboticist @ CATT Labs</p>
