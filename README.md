@@ -4,7 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&text=TVPIAN&fontColor=5c32a8&fontSize=80&stroke=00FF00&descAlign=75&descAlignY=63" alt="TVPIAN Header"/>
 
 <!-- Unicode-Styled Name -->
-# **Thᴀʀᴜɴ 𝑉. Pᴜᴛʜᴀɴᴠᴇᴇᴛᴛɪʟ**  <sub><sup>· <span style="color:#8f43f0; font-weight:bold;"><i>aka 𝚃𝚅𝙿</i></span></sup></sub>
+<h1 align="center">
+  Thᴀʀᴜɴ 𝑉. Pᴜᴛʜᴀɴᴠᴇᴇᴛᴛɪʟ  (<i>aka</i> <b><span style="font-family:monospace; color:#8f43f0;">TVP</span></b>)
+</h1>
 
 <p><b>Software Engineer 2.0 | Robotics Engineer @ General Motors Research & Development</b></p>
 
