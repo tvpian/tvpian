@@ -93,9 +93,10 @@
 </div>
 
 <div align="center">
-  <img height="150" src="https://github-profile-trophy.vercel.app/?username=tvpian&column=-1&theme=chalk&no-bg=true" style="margin-top: 20px;" />
+<!--   <img height="150" src="https://github-profile-trophy.vercel.app/?username=tvpian&column=-1&theme=chalk&no-bg=true" style="margin-top: 20px;" />
+</div> -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=10&width=300&color=gradient&textBg=false&fontColor=5c32a8&fontSize=80&reversal=true&section=footer&stroke=000FF00&descSize=18&descAlign=75&descAlignY=63" style="margin-top: 20px;" />
 </div>
 
 </div>
 
----
