@@ -77,18 +77,19 @@
 ---
 
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 
   <!-- GitHub Stats -->
-  <img height="120" src="https://github-readme-stats.vercel.app/api?username=tvpian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tvpian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=ffffff" width="320" />
 
   <!-- Top Languages -->
-  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs?username=tvpian&layout=compact&langs_count=8&card_width=200&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tvpian&layout=compact&langs_count=8&card_width=200&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=ffffff" width="320" />
 
-  <!-- Contribution Graph -->
-  <img height="120" src="https://github-readme-activity-graph.vercel.app/graph?username=tvpian&bg_color=00000000&color=5c32a8&line=5c32a8&point=ffffff&area=true&hide_border=true&theme=tokyonight" />
+  <!-- Contribution Graph (Resized to fit) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tvpian&bg_color=00000000&color=5c32a8&line=5c32a8&point=ffffff&area=true&hide_border=true&theme=tokyonight" width="320" />
 
 </div>
+
 
 
 
