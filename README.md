@@ -78,23 +78,21 @@
 
 
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; background-color: rgba(0, 0, 0, 0);">
-    <a href="https://github.com/tvpian/github-readme-stats" style="margin: 10px;">
-      <img height=120 src="https://github-readme-stats.vercel.app/api?username=tvpian&show_icons=true&theme=shadow-blue&icon_color=ffffff&bg_color=00000000" />
-    </a>
-    <a href="https://github.com/tvpian/convoychat" style="margin: 10px;">
-      <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs?username=tvpian&layout=compact&langs_count=8&card_width=200&show_icons=true&theme=shadow-blue&icon_color=ffffff&bg_color=00000000" />
-    </a>
-    <a href="https://github.com/tvpian/github-readme-streak-stats" style="margin: 10px;">
-      <img height=120 src="http://github-readme-streak-stats.herokuapp.com?user=tvpian&show_icons=true&theme=shadow-blue&border=E5E4E2&background=00000000" />
-    </a>
-<!--     <a href="https://github.com/tvpian/github-readme-streak-stats" style="margin: 10px;">
-  <img height="120" src="https://streak-stats.demolab.com/?user=tvpian&show_icons=true&theme=shadow-blue&border=E5E4E2&background=00000000" />
 
-</a>
- -->
-  </div>
+  <!-- GitHub Stats -->
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=tvpian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=ffffff" />
+
+  <!-- Top Languages -->
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=tvpian&layout=compact&langs_count=8&card_width=200&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=ffffff" />
+
+  <!-- Contribution Graph -->
+  <img height="140" src="https://github-readme-activity-graph.vercel.app/graph?username=tvpian&bg_color=00000000&color=5c32a8&line=5c32a8&point=ffffff&area=true&hide_border=true&theme=tokyonight" />
+
 </div>
+
+
+
+
 
 
 
