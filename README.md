@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&text=TVPIAN&fontColor=5c32a8&fontSize=80&stroke=00FF00&descAlign=75&descAlignY=63" alt="TVPIAN Header"/>
-
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&weight=400&color=gradient&text=TVPIAN&textBg=false&fontColor=5c32a8&&fontSize=80&reversal=false&section=header&stroke=000FF00&descSize=18&descAlign=75&descAlignY=63)
 <!-- Unicode-Styled Name -->
 <h1 align="center">
   Thᴀʀᴜɴ 𝑉. Pᴜᴛʜᴀɴᴠᴇᴇᴛᴛɪʟ  (<i>aka</i> <b><span style="font-family:monospace; color:#8f43f0;">TVP</span></b>)
@@ -92,6 +91,11 @@
   </div>
 </div>
 
+
+
+<div align="center">
+  <img height="150" src="https://github-profile-trophy.vercel.app/?username=tvpian&column=-1&theme=chalk&no-bg=true" style="margin-top: 20px;" />
+</div>
 <div align="center">
 <!--   <img height="150" src="https://github-profile-trophy.vercel.app/?username=tvpian&column=-1&theme=chalk&no-bg=true" style="margin-top: 20px;" />
 </div> -->
