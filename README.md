@@ -86,7 +86,7 @@
   <img height="125" src="https://github-readme-stats.vercel.app/api/top-langs?username=tvpian&layout=compact&langs_count=8&card_width=200&show_icons=true&theme=shadow_blue&hide_border=true&icon_color=ffffff&bg_color=00000000" />
 
   <!-- Contribution Graph -->
-  <img height="125" src="https://github-readme-activity-graph.vercel.app/graph?username=tvpian&bg_color=00000000&color=5c32a8&line=5c32a8&point=ffffff&area=true&hide_border=true" />
+  <img height="120" src="https://github-readme-activity-graph.vercel.app/graph?username=tvpian&bg_color=00000000&color=5c32a8&line=5c32a8&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
