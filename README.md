@@ -88,6 +88,11 @@
     <a href="https://github.com/tvpian/github-readme-streak-stats" style="margin: 10px;">
       <img height=120 src="http://github-readme-streak-stats.herokuapp.com?user=tvpian&show_icons=true&theme=shadow-blue&border=E5E4E2&background=00000000" />
     </a>
+<!--     <a href="https://github.com/tvpian/github-readme-streak-stats" style="margin: 10px;">
+  <img height="120" src="https://streak-stats.demolab.com/?user=tvpian&show_icons=true&theme=shadow-blue&border=E5E4E2&background=00000000" />
+
+</a>
+ -->
   </div>
 </div>
 
