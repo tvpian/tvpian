@@ -18,7 +18,7 @@
 <!-- Short Bio -->
 ```markdown
  Interests: Robotics | Computer Vision | Machine Learning  
- Currently Working On: Anomaly Detection, Multi-Modal Networks, Human-Robot Interaction  
+ Currently Working On: Embodied AI, Physical Intelligence, Behavior Orchestration, Multimodal Networks, and Human-Robot Interaction.
  Open to Collaborations on Research & Creative Tech  
  Reach me: tharunv.pvit@gmail.com
 ```
