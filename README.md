@@ -13,7 +13,7 @@
   Thᴀʀᴜɴ 𝑉. Pᴜᴛʜᴀɴᴠᴇᴇᴛᴛɪʟ  (<i>aka</i> <b><span style="font-family:monospace; color:#8f43f0;">TVP</span></b>)
 </h1>
 
-<p><b>Software Engineer 2.0 | Robotics Engineer @ General Motors Research & Development</b></p>
+<p><b>Software Engineer 2.0 / Generalist | Robotics Engineer @ General Motors Research & Development</b></p>
 
 <!-- Short Bio -->
 ```markdown
