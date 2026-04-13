@@ -99,15 +99,6 @@
 </div>
 
 
-
-
-
-
-
-
-
-
-
 <div align="center">
   <img height="150" src="https://github-profile-trophy.vercel.app/?username=tvpian&column=-1&theme=chalk&no-bg=true" style="margin-top: 20px;" />
 </div>
