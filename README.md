@@ -25,23 +25,23 @@
 
 <!-- Social Media Links with Dark Icons -->
 <p align="center">
-  <a href= "https://github.com/tvpian">
-    <img width="64" height="64" src="https://img.icons8.com/nolan/64/E6E6E6/808080/github.png" alt="github"/>
+  <a href="https://github.com/tvpian" style="display:inline-block;">
+    <img width="64" src="https://img.icons8.com/nolan/64/E6E6E6/808080/github.png"/>
   </a>
-  <a href= "https://www.linkedin.com/in/tvpian/">
-    <img width="64" height="64" src="https://img.icons8.com/nolan/64/E6E6E6/808080/linkedin-circled.png" alt="linkedin-circled"/>
+  <a href="https://www.linkedin.com/in/tvpian/" style="display:inline-block;">
+    <img width="64" src="https://img.icons8.com/nolan/64/E6E6E6/808080/linkedin-circled.png"/>
   </a>
-  <a href= "https://www.youtube.com/channel/UC9dTN0_IDjY5P1IWNWNg2jQ">
-    <img width="64" height="64" src="https://img.icons8.com/nolan/64/E6E6E6/808080/youtube-play.png" alt="youtube-play"/>
+  <a href="https://www.youtube.com/channel/UC9dTN0_IDjY5P1IWNWNg2jQ" style="display:inline-block;">
+    <img width="64" src="https://img.icons8.com/nolan/64/E6E6E6/808080/youtube-play.png"/>
   </a>
-  <a href= "https://tvpian.github.io/">
-    <img width="64" height="64" src="https://img.icons8.com/nolan/64/E6E6E6/808080/domain.png" alt="domain"/>
+  <a href="https://tvpian.github.io/" style="display:inline-block;">
+    <img width="64" src="https://img.icons8.com/nolan/64/E6E6E6/808080/domain.png"/>
   </a>
-  <a href= "https://scholar.google.com/citations?user=Vre9wQQAAAAJ&hl=en">
-    <img width="64" height="64" src="https://img.icons8.com/nolan/64/E6E6E6/808080/google-scholar.png" alt="scholar"/>
+  <a href="https://scholar.google.com/citations?user=Vre9wQQAAAAJ&hl=en" style="display:inline-block;">
+    <img width="64" src="https://img.icons8.com/nolan/64/E6E6E6/808080/google-scholar.png"/>
   </a>
-  <a href= "https://tvpian.github.io/data/Tharun_Resume.pdf">
-    <img width="64" height="64" src="https://img.icons8.com/nolan/64/E6E6E6/808080/resume.png" alt="resume"/>
+  <a href="https://tvpian.github.io/data/Tharun_Resume.pdf" style="display:inline-block;">
+    <img width="64" src="https://img.icons8.com/nolan/64/E6E6E6/808080/resume.png"/>
   </a>
 </p>
 
